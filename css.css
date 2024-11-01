@@ -62,13 +62,13 @@ body{
 .iframe_body, .iframe_bodymenu,.iframe_photo,.iframe_news,.iframe_latest,.iframe_line,.iframe_bodymenu2{
 	background: #FFFFFF;
 	margin : 0px;
-	scrollbar-3dlight-color: #666666;
+	scrollbar-3dlight-color: #ff8ff6;
 	scrollbar-highlight-color: #FFFFFF;
     scrollbar-face-color: #FFFFFF;
     scrollbar-arrow-color: #FFFFFF;
     scrollbar-shadow-color: #FFFFFF;
     scrollbar-darkshadow-color: #666666;
-    scrollbar-base-color: #666666;
+    scrollbar-base-color: #ff8ff6;
     scrollbar-track-color: #FFFFFF;
 }
 

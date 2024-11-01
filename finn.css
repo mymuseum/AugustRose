@@ -68,7 +68,7 @@ body{
     scrollbar-arrow-color: #FFFFFF;
     scrollbar-shadow-color: #FFFFFF;
     scrollbar-darkshadow-color: #666666;
-    scrollbar-base-color: #666666;
+    scrollbar-base-color: #e75a5a;
     scrollbar-track-color: #FFFFFF;
 }
 
@@ -164,7 +164,7 @@ body{
     scrollbar-arrow-color: #FFFFFF;
     scrollbar-shadow-color: #FFFFFF;
     scrollbar-darkshadow-color: #666666;
-    scrollbar-base-color: #666666;
+    scrollbar-base-color: #fcb2fc;
     scrollbar-track-color: #FFFFFF;
 	visibility: inherit;
 	z-index:1;
