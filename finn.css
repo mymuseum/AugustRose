@@ -15,7 +15,7 @@ body{
 	top:8px;
 	left:8px;
 	width:188px;
-	height:63px;
+	height:69px;
 	border: 1px solid #666666;
 	background: #FFFFFF url('img/logo2.jpg') no-repeat;
 	z-index:1; 
@@ -39,7 +39,7 @@ body{
 }
 .menuback{
 	position:absolute;
-	top:80px;
+	top:90px;
 	left:8px;
 	width:188px;
 	background: #FFFFFF;
@@ -60,7 +60,7 @@ body{
 }
 
 .iframe_body, .iframe_bodymenu,.iframe_photo,.iframe_news,.iframe_latest,.iframe_line,.iframe_bodymenu2{
-	background: #FFFFFF;
+	background: #ffffff;
 	margin : 0px;
 	scrollbar-3dlight-color: #666666;
 	scrollbar-highlight-color: #FFFFFF;
@@ -114,7 +114,7 @@ body{
 
 .finnsecond, .finnthird, .finntemp, .finnlatest{
 	position:absolute;
-	top:80px;
+	top:90px;    
 	left:206px;
 	width:10px;
 	background-color: #FFFFFF;
@@ -153,7 +153,7 @@ body{
 	top:-1px;
 	left:-1px;
 	width: 100%;
-	height: 100%;
+    height: 100%;
 	border-top: 1px solid #666666;
 	border-bottom: 1px solid #666666;
 	border-left: 1px solid #666666;
