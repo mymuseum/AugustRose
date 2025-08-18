@@ -73,14 +73,14 @@ body{
 }
 
 .iframe_news{
-	background : url('img/back/newsback.gif') repeat-y right;
+	background : url('img/newsback.gif') repeat-y right;
 }
 .iframe_latest{
-	background : url('img/back/newsback2.gif') repeat-y right;
+	background : url('img/newsback2.gif') repeat-y right;
 }
 
 .iframe_line{
-	background : url('img/back/vline.gif') repeat-y right;
+	background : url('img/vline.gif') repeat-y right;
 }
 .newsbox{	
 	background: #DDDDDD;
@@ -93,10 +93,10 @@ body{
 }
 
 .iframe_bodymenu{	
-	background : url('img/back/menuback.gif') repeat-y;
+	background : url('img/menuback.gif') repeat-y;
 }
 .iframe_bodymenu2{	
-	background : url('img/back/menuback2.gif') repeat-y;
+	background : url('img/menuback2.gif') repeat-y;
 }
  
 
