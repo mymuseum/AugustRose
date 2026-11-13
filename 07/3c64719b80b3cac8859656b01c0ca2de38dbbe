@@ -1,0 +1,19 @@
+javascript/common.js
+  s_29ae89cf5093fd::t_43a9bbd1b1ae55 31,57,84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "073c64719b80b3cac8859656b01c0ca2de38dbbe",
+  "prompts": {},
+  "sessions": {
+    "s_29ae89cf5093fd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "349b9365-0e41-45cb-a8be-fe49dcaed34f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Vadim Korolchuk <havenstudio@gmail.com>"
+    }
+  }
+}
