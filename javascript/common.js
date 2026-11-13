@@ -28,7 +28,7 @@ function togglemenu(){
  	 titlehtml += togglemenu.arguments[7];
 	 titlehtml += "</td><td align=right><a href=# onClick=togglemenu('";
 	 titlehtml += togglemenu.arguments[0];
-	 titlehtml +="','hidden',80,410,350,150,'/blank.htm','hidden'); class=title><img src=img/close.gif border=0></a></td></tr></table>";
+	 titlehtml +="','hidden',80,410,350,150,'blank.htm','hidden'); class=title><img src=img/close.gif border=0></a></td></tr></table>";
 	
 	myThing=MM_findObj(togglemenu.arguments[0]);
 	divThing=MM_findObj(togglemenu.arguments[0]+'title');
@@ -54,7 +54,7 @@ function newstogglemenu(){
  	 titlehtml += newstogglemenu.arguments[7];
 	 titlehtml += "</td>"; /*<td align=right><a href=# onClick=togglemenu('";
 	 titlehtml += togglemenu.arguments[0];*/
-	 //titlehtml += "','hidden',80,410,350,150,'/blank.htm','hidden'); class=title><img src=img/close.gif border=0></a></td></tr></table>";
+	 //titlehtml += "','hidden',80,410,350,150,'blank.htm','hidden'); class=title><img src=img/close.gif border=0></a></td></tr></table>";
 	 titlehtml += "</tr></table>";
 	
 	myThing=MM_findObj(newstogglemenu.arguments[0]);
@@ -81,7 +81,7 @@ function audiotogglemenu(){
  	 titlehtml += audiotogglemenu.arguments[7];
 	 titlehtml += "</td><td align=right><a href=# onClick=audiotogglemenu('";
 	 titlehtml += audiotogglemenu.arguments[0];
-	 titlehtml +="','hidden',80,410,350,150,'/blank.htm','hidden'); class=title><img src=img/close.gif border=0></td></tr></table>";
+	 titlehtml +="','hidden',80,410,350,150,'blank.htm','hidden'); class=title><img src=img/close.gif border=0></td></tr></table>";
 	
 	myThing=MM_findObj(audiotogglemenu.arguments[0]);
 	divThing=MM_findObj(audiotogglemenu.arguments[0]+'title');
