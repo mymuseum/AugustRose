@@ -170,6 +170,25 @@ body{
 	z-index:1;
 }
 
+/* Windows with a title bar: the title keeps its height and the iframe fills
+   only the space under it, so it no longer overflows the window's bottom
+   border (height:100% made it title-bar-height too tall).
+   margin-bottom:-2px lets the iframe's own bottom border sit on the window's
+   border, matching the -1px top/left offsets above. */
+.menuback, .finnsecond, .finnthird{
+	display: flex;
+	flex-direction: column;
+}
+.titlediv{
+	flex: none;
+}
+.menu, .finnsecondcontent, .finnthirdcontent{
+	flex: 1 1 auto;
+	height: auto;
+	min-height: 0;
+	margin-bottom: -2px;
+}
+
 .style1{
 	font : normal normal 10px Verdana, Geneva, Arial, Helvetica, sans-serif;
 }
